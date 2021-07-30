@@ -5,7 +5,5 @@ public class githubTest {
         System.out.println("练习github");
         System.out.println("csx修改了代码");
         System.out.println("cxh修改了代码");
-
-
     }
 }
